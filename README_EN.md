@@ -2,6 +2,12 @@
   <img src="https://yt3.googleusercontent.com/m3_3IbWGKu80R_uMPPSK2PCNRqwGAm5w2KED0fPESPeHniLvwjRRln23juYLl8lVGn7tYgXPug=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Imagine It, Code It" style="max-width: 100%; border-radius: 12px;">
 </p>
 
+<p align="center">
+  <a href="https://github.com/davexhernandez/davexhernandez/blob/main/README.md" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20en%20Español-EB5E28?style=for-the-badge&logo=readme&logoColor=white" alt="Ver en Español" />
+  </a>
+</p>
+
 <h1 align="center">👨‍💻 Hi, I'm David Hernández (Dave)</h1>
 <h3 align="center">Software Engineer · Cloud & Fullstack Architect · Tech Lead · AWS Specialist</h3>
 
