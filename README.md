@@ -1,6 +1,7 @@
 # 👋 Hola, soy David Hernandez (Dave)
 
-**Ingeniero de Software | Fullstack & Cloud Architect | AWS Specialist**
+**Ingeniero de Software | Fullstack & Cloud Architect | AWS Specialist | Tech Lead **
+
 
 Soy un ingeniero de software con más de 6 años de experiencia desarrollando soluciones para el sector financiero y de pagos digitales. Me apasiona crear sistemas escalables y de alto rendimiento, con un enfoque fuerte en arquitectura cloud (AWS), microservicios, calidad de código y automatización.
 
