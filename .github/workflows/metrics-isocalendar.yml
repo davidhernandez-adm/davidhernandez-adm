@@ -1,0 +1,19 @@
+name: GitHub Metrics - Isometric Calendar
+on:
+  schedule: [{cron: "0 12 * * 0"}]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics-isocalendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
