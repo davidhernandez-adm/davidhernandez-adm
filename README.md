@@ -21,8 +21,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Tonder 🇲🇽-3B82F6?style=flat-square&logo=none&logoColor=white" alt="Tonder México" />
-  <img src="https://img.shields.io/badge/Kushki 🇪🇨-00C389?style=flat-square&logo=none&logoColor=white" alt="Kushki Ecuador" />
   <img src="https://img.shields.io/badge/Kashio 🇵🇪-1E3A8A?style=flat-square&logo=none&logoColor=white" alt="Kashio Perú" />
+  <img src="https://img.shields.io/badge/Kushki 🇪🇨-00C389?style=flat-square&logo=none&logoColor=white" alt="Kushki Ecuador" />
 </p>
 
 ---
