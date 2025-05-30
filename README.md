@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/davexhernandez/davexhernandez/blob/main/README.en.md" target="_blank">
+  <a href="https://github.com/davidhernandez-adm/davidhernandez-adm/blob/main/README_EN.md" target="_blank">
     <img src="https://img.shields.io/badge/README%20in%20English-%23007acc?style=for-the-badge&logo=readme&logoColor=white" alt="View in English" />
   </a>
 </p>
@@ -26,9 +26,9 @@
 ## 🧳 Experiencia reciente
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Kushki 🇪🇨-00C389?style=flat-square&logo=none&logoColor=white" alt="Kushki Ecuador" />
   <img src="https://img.shields.io/badge/Tonder 🇲🇽-3B82F6?style=flat-square&logo=none&logoColor=white" alt="Tonder México" />
   <img src="https://img.shields.io/badge/Kashio 🇵🇪-1E3A8A?style=flat-square&logo=none&logoColor=white" alt="Kashio Perú" />
+  <img src="https://img.shields.io/badge/Kushki 🇪🇨-00C389?style=flat-square&logo=none&logoColor=white" alt="Kushki Ecuador" />
 </p>
 
 ---
