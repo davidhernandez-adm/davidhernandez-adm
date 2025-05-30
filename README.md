@@ -2,6 +2,12 @@
   <img src="https://yt3.googleusercontent.com/m3_3IbWGKu80R_uMPPSK2PCNRqwGAm5w2KED0fPESPeHniLvwjRRln23juYLl8lVGn7tYgXPug=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Imagine It, Code It" style="max-width: 100%; border-radius: 12px;">
 </p>
 
+<p align="center">
+  <a href="https://github.com/davexhernandez/davexhernandez/blob/main/README.en.md" target="_blank">
+    <img src="https://img.shields.io/badge/README%20in%20English-%23007acc?style=for-the-badge&logo=readme&logoColor=white" alt="View in English" />
+  </a>
+</p>
+
 <h1 align="center">👨‍💻 Hola, soy David Hernández (Dave)</h1>
 <h3 align="center">Ingeniero de Software · Arquitecto Cloud y Fullstack · Tech Lead · AWS Specialist</h3>
 
@@ -20,9 +26,9 @@
 ## 🧳 Experiencia reciente
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Kushki 🇪🇨-00C389?style=flat-square&logo=none&logoColor=white" alt="Kushki Ecuador" />
   <img src="https://img.shields.io/badge/Tonder 🇲🇽-3B82F6?style=flat-square&logo=none&logoColor=white" alt="Tonder México" />
   <img src="https://img.shields.io/badge/Kashio 🇵🇪-1E3A8A?style=flat-square&logo=none&logoColor=white" alt="Kashio Perú" />
-  <img src="https://img.shields.io/badge/Kushki 🇪🇨-00C389?style=flat-square&logo=none&logoColor=white" alt="Kushki Ecuador" />
 </p>
 
 ---
@@ -108,4 +114,4 @@ Illustrator · Photoshop
 
 ---
 
-> *"Construyo soluciones simples y eficientes para problemas complejos. Siempre con pasión por el detalle y el impacto."*
+<h3 align="center">✨ "Construyo soluciones simples y eficientes para problemas complejos. Siempre con pasión por el detalle y el impacto." ✨</h3>
